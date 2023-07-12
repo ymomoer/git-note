@@ -19,3 +19,4 @@
 - git 版本回退 `git reset --hard <commitID>`
 - git 创建文件 `touch 文件名`
 - git 查看关联关系 `git branch -vv`
+- git
