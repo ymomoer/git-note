@@ -19,3 +19,6 @@
 - git 版本回退 `git reset --hard <commitID>`
 - git 创建文件 `touch 文件名`
 - git 查看关联关系 `git branch -vv`
+- git 从远程仓库克隆 `git clone`
+- git 从远程仓库拉取:将仓库里的更新都抓取到本地 `git fetch`
+- git 从远程仓库抓取：fetch+merge `git pull`
